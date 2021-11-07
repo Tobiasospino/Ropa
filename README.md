@@ -1,1 +1,1 @@
-Este es una especie de E-comerce
+Este es una plantilla de E-comerce
