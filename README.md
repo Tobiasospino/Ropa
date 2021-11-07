@@ -1,1 +1,1 @@
-Este es una plantilla de E-comerce
+Esta es una plantilla de E-comerce
